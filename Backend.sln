@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Function_GET", "Function_GET\Function_GET.csproj", "{9505647E-BEB1-4E52-B274-19E7EC7EC416}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Function_POST", "Function_POST\Function_POST.csproj", "{A753CC1D-347A-4136-9651-26A9CC7DCF8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Function_PUT", "Function_PUT\Function_PUT.csproj", "{750ED202-68DE-4633-ADCE-F268683BFB72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Function_DELETE", "Function_DELETE\Function_DELETE.csproj", "{51E251A7-0198-48BC-B4F5-E47FAD6F397A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionInQueue", "FunctionInQueue\FunctionInQueue.csproj", "{91E348B3-01BA-459A-BED4-83D8BA613A32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionOrquestator", "FunctionOrquestator\FunctionOrquestator.csproj", "{E9724D8A-E163-4A15-A8AF-C866837B9691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSalida", "WebApiSalida\WebApiSalida.csproj", "{6AF1D525-BFBE-4215-B7DB-4DBE2AE453BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9505647E-BEB1-4E52-B274-19E7EC7EC416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9505647E-BEB1-4E52-B274-19E7EC7EC416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9505647E-BEB1-4E52-B274-19E7EC7EC416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A753CC1D-347A-4136-9651-26A9CC7DCF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A753CC1D-347A-4136-9651-26A9CC7DCF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A753CC1D-347A-4136-9651-26A9CC7DCF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750ED202-68DE-4633-ADCE-F268683BFB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750ED202-68DE-4633-ADCE-F268683BFB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750ED202-68DE-4633-ADCE-F268683BFB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E251A7-0198-48BC-B4F5-E47FAD6F397A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E251A7-0198-48BC-B4F5-E47FAD6F397A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E251A7-0198-48BC-B4F5-E47FAD6F397A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E348B3-01BA-459A-BED4-83D8BA613A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E348B3-01BA-459A-BED4-83D8BA613A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E348B3-01BA-459A-BED4-83D8BA613A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9724D8A-E163-4A15-A8AF-C866837B9691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9724D8A-E163-4A15-A8AF-C866837B9691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9724D8A-E163-4A15-A8AF-C866837B9691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF1D525-BFBE-4215-B7DB-4DBE2AE453BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF1D525-BFBE-4215-B7DB-4DBE2AE453BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF1D525-BFBE-4215-B7DB-4DBE2AE453BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447F1F1B-D27F-43E3-8873-B8D97C519877}
+	EndGlobalSection
+EndGlobal
